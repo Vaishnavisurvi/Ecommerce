@@ -38,7 +38,7 @@ const Footer = () => {
               className="text-primary font-semibold tracking-widest text-2xl uppercase sm:text-3xl
 "
             >
-              Myshop
+              My-V-shop
             </a>
             <p className="text-gray-600 dark:text-white/70  lg:pr-24 pt-3">
             Gets Best deals for new products with low cost EMI. Delevered all over country
